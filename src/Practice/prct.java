@@ -7,7 +7,18 @@ public class prct {
 		
 		String m="Satara";
 		
+		
+
+		
+		
+		
+		
+		
 		System.err.println(m);
+	
+		
+		
+		
 		
 	}
 
